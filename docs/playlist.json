@@ -4,10 +4,10 @@
   "tracks": [
     {
       "id": "1",
-      "title": "Track A",
+      "title": "Demo track",
       "artist": "Artist A",
-      "duration": 180,
-      "url": "https://YOUR_USERNAME.github.io/REPO_NAME/tracks/track1.mp3"
+      "duration": 128,
+      "url": "https://dmitriilipuntsov.github.io/room-radio/tracks/Demo track.mp3"
     }
   ]
 }
