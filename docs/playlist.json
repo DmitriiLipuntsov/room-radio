@@ -1,0 +1,13 @@
+{
+  "playlistStartAt": "2026-05-07T00:00:00Z",
+  "loopEvery": 86400,
+  "tracks": [
+    {
+      "id": "1",
+      "title": "Track A",
+      "artist": "Artist A",
+      "duration": 180,
+      "url": "https://YOUR_USERNAME.github.io/REPO_NAME/tracks/track1.mp3"
+    }
+  ]
+}
