@@ -1,13 +1,27 @@
 {
   "playlistStartAt": "2026-05-07T00:00:00Z",
-  "loopEvery": 86400,
+  "loopEvery": 465,
   "tracks": [
     {
       "id": "1",
       "title": "Demo track",
       "artist": "Artist A",
       "duration": 128,
-      "url": "https://dmitriilipuntsov.github.io/room-radio/tracks/Demo track.mp3"
+      "url": "https://dmitriilipuntsov.github.io/room-radio/tracks/DemoTrack.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Demo track 2",
+      "artist": "Artist B",
+      "duration": 172,
+      "url": "https://dmitriilipuntsov.github.io/room-radio/tracks/DemoTrack2.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Demo track 3",
+      "artist": "Artist C",
+      "duration": 165,
+      "url": "https://dmitriilipuntsov.github.io/room-radio/tracks/DemoTrack3.mp3"
     }
   ]
 }
